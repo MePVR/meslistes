@@ -1,1 +1,2 @@
 Greenshot.Greenshot
+Microsoft.PowerShell
