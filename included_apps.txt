@@ -1,2 +1,3 @@
 Greenshot.Greenshot
 Microsoft.PowerShell
+Romanitho.Winget-AutoUpdate
